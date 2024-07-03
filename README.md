@@ -1,5 +1,3 @@
-Here's a professional and visually appealing README file for your AspireNex repository:
-
 ---
 
 # AspireNex Repository 📊🎬
